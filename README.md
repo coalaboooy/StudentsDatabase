@@ -1,6 +1,6 @@
 # StudentsDatabase
 
-Just a students database. Fetures:
+Just a students database. Features:
 
 - Adding a student
 - Deleting a student
